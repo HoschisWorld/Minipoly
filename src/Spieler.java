@@ -1,3 +1,7 @@
+/*
+ * This class represents a player
+ */
+
 public class Spieler 
 {
 	protected String sName;
